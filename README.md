@@ -1,0 +1,1 @@
+This is my python sandbox filled with different excerises and problems I have come across. I like to keep this folder on my computer active with solutions and problems that I come across esp once I get into much more complex tress and data structures
